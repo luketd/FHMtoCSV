@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1598974948346.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "995487879",
+    "id" : "D93D2AA8",
+    "lastKnownWriteTime" : 1598987529,
+    "last_content_update" : 1598987529551,
+    "path" : "D:/luket/Documents/FHMtoBojo/FHMtoBojo/FHMtoBojo.R",
+    "project_path" : "FHMtoBojo.R",
+    "properties" : {
+        "cursorPosition" : "149,0",
+        "scrollLine" : "132",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
