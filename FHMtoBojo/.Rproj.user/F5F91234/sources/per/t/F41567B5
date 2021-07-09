@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1608311223326.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F41567B5",
+    "lastKnownWriteTime" : 7160569971446915616,
+    "last_content_update" : 1608311223326,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "2C8B776F",
+        "caption" : "SHL",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=SHL&cache_key=2C8B776F",
+        "displayedObservations" : "141",
+        "environment" : "",
+        "expression" : "SHL",
+        "object" : "SHL",
+        "preview" : "0",
+        "totalObservations" : "141",
+        "variables" : "3"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

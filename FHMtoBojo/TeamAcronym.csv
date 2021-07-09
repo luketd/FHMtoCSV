@@ -3,7 +3,7 @@ TeamId,Abbr
 2,MIN
 3,EDM
 4,MAN
-5,SEA
+62,SEA
 6,WKP
 7,HAM
 8,SFP
@@ -18,3 +18,4 @@ TeamId,Abbr
 44,TBB
 45,NOL
 61,BAP
+63,ATL

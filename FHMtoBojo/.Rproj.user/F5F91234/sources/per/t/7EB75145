@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1606600903239.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4146854811",
+    "id" : "7EB75145",
+    "lastKnownWriteTime" : 1609167940,
+    "last_content_update" : 1609167940443,
+    "path" : "D:/FHMtoBojo/FHMtoCSV/tweetGrader/tweetGrader.r",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "194,0",
+        "scrollLine" : "160",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
