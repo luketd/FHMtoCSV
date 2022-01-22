@@ -5,11 +5,11 @@ library(dplyr)
 library(readr)
 
 #####################
-# S60=2026
+# S61=2027
 #####################
 
-seasonCurrent <- 60
-yearCurrent <- 2026
+seasonCurrent <- 61
+yearCurrent <- 2027
 
 ##Read in Player Master
 
@@ -308,7 +308,7 @@ SkatersCombined <- rbind(player_skater_rs, player_skater_po)
 GoaliesCombined <- rbind(player_goalie_rs, player_goalie_po)
 
 
-write.csv(SkatersCombined,"C:\\Users\\Luke\\Desktop\\SHL\\S59Skaters.csv")
-write.csv(GoaliesCombined,"C:\\Users\\Luke\\Desktop\\SHL\\S59goalie.csv")
+write.csv(SkatersCombined,"C:\\Users\\Luke\\Desktop\\SHL\\S61Skaters.csv")
+write.csv(GoaliesCombined,"C:\\Users\\Luke\\Desktop\\SHL\\S61goalie.csv")
 
 
